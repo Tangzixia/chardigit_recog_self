@@ -1,0 +1,1 @@
+# chardigit_recog_self
